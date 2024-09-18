@@ -8,7 +8,8 @@ This program was implemented in Jupyter Notebook with the following machine lear
 
 ### pandas
 ### numpy
-### matplotliv
+### matplotlib
+### scikit-learn
 
 ## Usage
 
